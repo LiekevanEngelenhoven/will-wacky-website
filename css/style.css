@@ -203,15 +203,16 @@ body main footer *:first-child + html .wrapper-cta {
 }
 
 body {
-    font-family: 'Arapey', serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     line-height: 1.6;
     letter-spacing: 0.02em;
+	font-weight: bold italic;	
 }
 
 body .actionFont,
 body main .cta {
-    font-family: monospace;
+    font-family: 'Open Sans', sans-serif;
     font-size: 0.9em;
     line-height: 1;
     letter-spacing: 0.05em;
